@@ -27,7 +27,7 @@ The input data containts the following data files:
 
 Following are the transformations that were performed on the input dataset:
 
-    * X_train.txt is read into featuresTrain.
+  * X_train.txt is read into featuresTrain.
     * y_train.txt is read into activityTrain.
     * subject_train.txt is read into subjectTrain.
     * X_test.txt is read into featuresTest.
